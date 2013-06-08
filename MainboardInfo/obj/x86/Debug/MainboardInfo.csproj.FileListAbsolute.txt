@@ -1,0 +1,4 @@
+E:\MyProject\2013\HardwareCode\HardwareSolution\MainboardInfo\bin\Debug\MainboardInfo.exe
+E:\MyProject\2013\HardwareCode\HardwareSolution\MainboardInfo\bin\Debug\MainboardInfo.pdb
+E:\MyProject\2013\HardwareCode\HardwareSolution\MainboardInfo\obj\x86\Debug\MainboardInfo.exe
+E:\MyProject\2013\HardwareCode\HardwareSolution\MainboardInfo\obj\x86\Debug\MainboardInfo.pdb
